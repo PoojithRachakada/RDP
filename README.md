@@ -1,7 +1,7 @@
 Remote-Desktop-Control
 ======================
 
-This is a project based on Java which allows to control a desktop remotely
+This is a project based on Java which allows to control a desktop remotely on heterogeneous system.
 
 It has two modules- Client and Server.
 <br>
